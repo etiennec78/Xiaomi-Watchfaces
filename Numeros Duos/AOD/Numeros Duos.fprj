@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FaceProject DeviceType="7">
+    <Screen Title="Numeros Duos" Bitmap="preview_RGB.png">
+        <Widget Shape="30" Name="Background_RGB" X="0" Y="0" Width="390" Height="450" Alpha="255" Visible_Src="0" Bitmap="gray-gradient.png" />
+        <Widget Shape="32" Name="Hours" X="15" Y="15" Width="360" Height="205" Alpha="255" Digits="2" Alignment="0" Spacing="10" Blanking="0" Visible_Src="0" Value_Src="811" BitmapList="0aod.png|1aod.png|2aod.png|3aod.png|4aod.png|5aod.png|6aod.png|7aod.png|8aod.png|9aod.png|0aod.png" />
+        <Widget Shape="32" Name="Minutes" X="15" Y="230" Width="360" Height="205" Alpha="255" Digits="2" Alignment="0" Spacing="10" Blanking="0" Visible_Src="0" Value_Src="1011" BitmapList="0aod.png|1aod.png|2aod.png|3aod.png|4aod.png|5aod.png|6aod.png|7aod.png|8aod.png|9aod.png|0aod.png" />
+    </Screen>
+</FaceProject>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<FaceProject DeviceType="7">
+    <Screen Title="Amazfit analog" Bitmap="aod.png">
+        <Widget Shape="27" Name="AnalogClock" X="0" Y="0" Width="390" Height="450" Alpha="255" HourHandCorrection_En="1" MinuteHandCorrection_En="1" Visible_Src="0" Background_ImageName="" BgImage_rotate_xc="0" BgImage_rotate_yc="0" HourHand_ImageName="hours.png" HourImage_rotate_xc="5" HourImage_rotate_yc="117" MinuteHand_Image="minutes.png" MinuteImage_rotate_xc="11" MinuteImage_rotate_yc="160" SecondHand_Image="" SecondImage_rotate_xc="0" SecondImage_rotate_yc="0" />
+    </Screen>
+</FaceProject>
